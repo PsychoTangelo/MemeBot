@@ -1,0 +1,14 @@
+{
+    "name": "meme_bot",
+    "version": "0.0.0",
+    "description": "for all your meme needs",
+    "main": "memeBot.js",
+    "author": {
+        "name": "PsychoTangelo"
+    },
+    "dependencies": {
+        "discord.js": "^12.5.1",
+        "eslint": "^7.17.0",
+        "winston": "^3.2.1"
+    }
+}

@@ -1,0 +1,21 @@
+{
+  "channel": {
+    "type": "text",
+    "deleted": false,
+    "id": "649084054292922368",
+    "name": "meme-central",
+    "rawPosition": 5,
+    "parentID": "399424218975961101",
+    "permissionOverwrites": [],
+    "topic": null,
+    "lastMessageID": "797651812731453491",
+    "rateLimitPerUser": 0,
+    "lastPinTimestamp": null,
+    "guild": "399424218975961100",
+    "messages": [
+      "797651812731453491"
+    ],
+    "nsfw": false,
+    "createdTimestamp": 1574824097942
+  }
+}
