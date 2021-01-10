@@ -108,3 +108,6 @@ auth.json
 
 # Reddit app secret
 reddit.json
+
+config.json
+settings.json
