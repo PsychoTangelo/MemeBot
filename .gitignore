@@ -109,5 +109,5 @@ auth.json
 # Reddit app secret
 reddit.json
 
-config.json
-settings.json
+# Temp files
+memes.json
